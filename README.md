@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+```javascript
+const HenriqueMagnoli = {
+
+  code: ['Javascript', 'PHP', 'Java', 'C#']
+
+  tools: {
+    databases: ['MYSQL'],
+    ides: ['Vscode', 'VisualStudio', 'NetBeans', 'AndroidStudio']
+  }
+  
+}
+```
+
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCordeir0&layout=compact&theme=tokyonight)](https://github.com/henriquemagnoli)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCordeir0&show_icons=true&theme=tokyonight)
+
 <!--
 **henriquemagnoli/HenriqueMagnoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
