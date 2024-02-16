@@ -7,7 +7,7 @@ const HenriqueMagnoli = {
 
   technologies: {
     databases: ['MYSQL'],
-    frameworks: ['Bootstrap 5', 'TailwindCSS', 'VueJS', 'SlimPHP']
+    frameworks: ['Bootstrap 5', 'TailwindCSS', 'VueJS', 'SlimPHP'],
     ides: ['Vscode', 'VisualStudio', 'NetBeans', 'AndroidStudio']
   }
   
