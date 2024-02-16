@@ -3,10 +3,11 @@
 ```javascript
 const HenriqueMagnoli = {
 
-  code: ['Javascript', 'PHP', 'Java', 'C#'],
+  code: ['Javascript', 'PHP', 'Java', 'C#', 'NodeJS'],
 
   technologies: {
     databases: ['MYSQL'],
+    frameworks: ['Bootstrap 5', 'TailwindCSS', 'VueJS', 'SlimPHP']
     ides: ['Vscode', 'VisualStudio', 'NetBeans', 'AndroidStudio']
   }
   
