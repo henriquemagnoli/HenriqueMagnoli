@@ -3,7 +3,7 @@
 ```javascript
 const HenriqueMagnoli = {
 
-  code: ['Javascript', 'PHP', 'Java', 'C#', 'NodeJS'],
+  code: ['Javascript', 'PHP', 'TypeScript', 'C#', 'NodeJS'],
 
   technologies: {
     databases: ['MYSQL'],
